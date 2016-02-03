@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently a student in the [Hack Reactor Remote Beta](http://www.hackreactor.com/remote-beta/) program, cohort #12.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Previous to HR I was a professional photographer. Life is strange, but exciting.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jbitely@gmail.com](mailto:jbitely@gmail.com)
